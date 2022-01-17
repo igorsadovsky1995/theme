@@ -1,2 +1,0 @@
-# new-theme
-its template
